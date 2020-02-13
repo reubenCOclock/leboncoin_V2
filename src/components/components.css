@@ -1,0 +1,94 @@
+.container {
+  margin: 0 auto;
+  width: 80%;
+}
+
+.flex-items {
+  display: flex;
+}
+
+.flex-column-items {
+  display: flex;
+}
+
+.img-cont {
+  width: 20%;
+}
+
+.img {
+  width: 100%;
+  object-fit: cover;
+  height: 200px;
+}
+
+.flex-column-items {
+  width: 80%;
+  margin-left: 25px;
+  display: flex;
+  flex-direction: column;
+}
+
+.align-self-start {
+  align-self: flex-start;
+}
+
+.align-self-end {
+  align-self: flex-end;
+  margin-top: 50%;
+}
+
+.announce-box {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.link {
+  color: black;
+  text-decoration: none;
+}
+
+.flex-announce-box {
+  display: flex;
+  flex-direction: center;
+  align-items: center;
+  justify-content: center;
+  background: lightgrey;
+}
+
+.announce-box-center {
+  padding: 10px;
+}
+
+.bg-white {
+  background: white;
+  padding: 10px;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.flex-items-start {
+  display: flex;
+  flex-direction: column;
+  height: 100px;
+}
+
+.flex-items-end {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.flex-items {
+  display: flex;
+}
+
+.poster-info {
+  align-self: flex-start;
+}
