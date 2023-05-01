@@ -6,6 +6,7 @@ import Offers from "./components/Offers";
 import "./App.css";
 
 function App() {
+  console.log("test push with no access rights");
   return (
     <Router>
       <Switch>
