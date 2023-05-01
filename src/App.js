@@ -7,6 +7,7 @@ import "./App.css";
 
 function App() {
   console.log("test push with no access rights");
+  console.log("test push with access rights");
   return (
     <Router>
       <Switch>
